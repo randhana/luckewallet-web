@@ -24,37 +24,37 @@ body {
 }
 
 .mission {
-  background: linear-gradient(rgba(2,2,2,.2),rgba(0,0,0,.3)),url("C:/Users/ASUS/Desktop/react learning/mld-main/src/images/mission.svg") fixed center center;
+  background: linear-gradient(rgba(2,2,2,.2),rgba(0,0,0,.3)),url("./images/mission.svg") fixed center center;
 }
 
 .what-sets-us-apart {
-  background: linear-gradient(rgba(2,2,2,.2),rgba(0,0,0,.3)),url("C:/Users/ASUS/Desktop/react learning/mld-main/src/images/img-features.svg") fixed center center;
+  background: linear-gradient(rgba(2,2,2,.2),rgba(0,0,0,.3)),url("./images/img-features.svg") fixed center center;
 }
 
 .background-img{
-  background: linear-gradient(rgba(2,2,2,.2),rgba(0,0,0,.3)),url("C:/Users/ASUS/Desktop/react learning/mld-main/src/images/features/bg.jpg") fixed center center;
+  background: linear-gradient(rgba(2,2,2,.2),rgba(0,0,0,.3)),url("./images/features/bg.jpg") fixed center center;
 }
 
 .fund-transfer{
-  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("C:/Users/ASUS/Desktop/react learning/mld-main/src/images/features/New folder/fundt.jpg") fixed center center;
+  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("./images/features/New folder/fundt.jpg") fixed center center;
 }
 
 .bill-pay{
-  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("C:/Users/ASUS/Desktop/react learning/mld-main/src/images/features/New folder/billpay.jpg") fixed center center;
+  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("./images/features/New folder/billpay.jpg") fixed center center;
 }
 
 .fd{
-  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("C:/Users/ASUS/Desktop/react learning/mld-main/src/images/features/New folder/fixed.jpg") fixed center center;
+  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("./images/features/New folder/fixed.jpg") fixed center center;
 }
 
 .g-loan{
-  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("C:/Users/ASUS/Desktop/react learning/mld-main/src/images/features/New folder/gloan.jpg") fixed center center;
+  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("./images/features/New folder/gloan.jpg") fixed center center;
 }
 
 .lend{
-  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("C:/Users/ASUS/Desktop/react learning/mld-main/src/images/features/New folder/billpay.jpg") fixed center center;
+  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("./images/features/New folder/billpay.jpg") fixed center center;
 }
 
 .bg{
-  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("C:/Users/ASUS/Desktop/react learning/mld-main/src/images/features/New folder/bg.jpg") fixed center center;
+  background: linear-gradient(rgba(2,2,2,.7),rgba(0,0,0,.7)),url("./images/features/New folder/bg.jpg") fixed center center;
 }
