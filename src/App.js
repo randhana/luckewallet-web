@@ -40,6 +40,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/feature" element={<Features />} /> 
+            <Route path="/luckewallet-web/*" element={<Home />} />
           </Routes>
         </ScrollToTop>
       </Router>
